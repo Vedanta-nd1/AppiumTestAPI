@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Button, View, Text, SafeAreaView } from 'react-native';
 
-const API_KEY = '38272491a884c20022123182907489dd';
+const API_KEY = 'PASTE_YOUR_KEY_HERE';
 const CITY_NAME = 'Bengaluru'; 
 const customWaitTime = 5000; 
 
